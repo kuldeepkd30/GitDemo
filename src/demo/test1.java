@@ -22,7 +22,21 @@ public class test1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-
+		System.out.println("first");
+		System.out.println("second");
+		System.out.println("first");
+		System.out.println("second");
+		System.out.println("first");
+		System.out.println("second");
+		
+		
+		
+		System.out.println("firstbranch");
+		System.out.println("secondbranch");
+		System.out.println("firstbranch ");
+		System.out.println("secfirstbranchond");
+		System.out.println("firfirstbranchst");
+		System.out.println("secfirstbranchond");
 		 System.setProperty("webdriver.chrome.driver", "C://chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		//driver.get("https://rahulshettyacademy.com/AutomationPractice/");
