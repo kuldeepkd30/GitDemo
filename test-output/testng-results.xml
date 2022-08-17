@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-12T10:39:57 EDT" name="Default suite" finished-at="2022-08-12T10:40:07 EDT" duration-ms="10102">
+    <groups>
+    </groups>
+    <test started-at="2022-08-12T10:39:57 EDT" name="Default test" finished-at="2022-08-12T10:40:07 EDT" duration-ms="10102">
+      <class name="EndToEndEcommerceApiTest.EcommeceApiTest">
+        <test-method signature="main()[pri:0, instance:EndToEndEcommerceApiTest.EcommeceApiTest@56528192]" started-at="2022-08-12T10:39:57 EDT" name="main" finished-at="2022-08-12T10:40:07 EDT" duration-ms="10034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- EndToEndEcommerceApiTest.EcommeceApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
